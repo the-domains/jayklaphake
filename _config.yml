@@ -1,0 +1,28 @@
+name: JayKlaphake
+favicon: null
+layout_spectrum: 0.6586766159161925
+typography_spectrum: 0.9357957397587597
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.49321976327337325
+  lightness: 0.8308415184728801
+  saturation: 0.20007882895879447
+  rhythmicContrast: 0.5491431949194521
+purpose: []
